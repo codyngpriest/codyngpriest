@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codyngpriest
-- 👀 Aspiring software engineer
+- 👀 A software engineer
 - 🌱 Building from scratch!
 <!---
 codyngpriest/codyngpriest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
